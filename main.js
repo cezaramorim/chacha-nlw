@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'cezaramorim',
-  youtube: 'jakelinygracielly',
-  instagram: 'jakeliny.gracielly',
+  youtube: 'channel/UCdzmjUBRoBYAG8KQFZu9Sbw',
+  instagram: '_cezar_amorim',
   facebook: 'maykbrito',
-  twitter: 'jakelinytec'
+  twitter: 'miromalc'
 }
 
 function changeSocialMediaLinks() {
